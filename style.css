@@ -1,0 +1,85 @@
+body
+{background-color : black ;
+color : black ; 
+}
+.boîteprincipale
+{float : none ;
+border : 10px solid blue ;
+width : 800px ;
+height : 1000px ;
+margin : auto ;
+padding : 40px ;
+text-align : center ;
+background : cyan ;}
+.boîteprincipale2
+{float : none ;
+border : 10px solid blue ;
+width : 800px ;
+height : 1200px ;
+margin : auto ;
+padding : 40px ;
+text-align : center ;
+background : cyan ;}
+.boîtedansboîteprincipale
+{float : none ;
+color : cyan ;
+border : 10px solid black ;
+width : 500px ;
+height : 400px ;
+margin : auto ;
+padding : 1px ; 
+text-align : center;
+background : gray ;}
+.cadreportrait
+{float : left ;
+border : 10px solid blue;
+width : 240px ;
+margin : auto ;
+padding : 30px ;
+background : gray ;
+}
+.boîteinfo
+{
+float : right ;
+margin : 1px ;
+padding : 30 px ;
+border : 10px solid blue ;
+margin : auto;
+width : 57% ;
+height : 300px;
+background-color : gray;
+}
+.boîtebasgauche
+{
+float : left ;
+margin : auto ;
+padding : 30px ; 
+border : 10px dotted blue ;
+width : 250px ;
+height : 670px ;
+}
+.boîtebasdroite
+{
+float : right ;
+margin : auto ;
+padding : 30px ; 
+border : 10px dotted blue ;
+width : 250px ;
+height : 670px ;
+}
+.cadrephoto
+{
+float : none ;
+margin : auto ; 
+border : 2px solid green ;
+height: 150px ;
+width: 200px ;
+}
+.cadrephoto2
+{
+float : none ;
+margin : auto ; 
+border : 5px solid green ;
+height: 200px ;
+width: 250px ;
+}
